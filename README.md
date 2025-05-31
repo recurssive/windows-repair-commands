@@ -66,3 +66,9 @@ sfc /scannow
 - These steps are safe and do **not delete your personal files**.
 
 ---
+
+## 📚 References
+
+- [Microsoft Docs – DISM Overview](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/dism-overview)  
+- [Microsoft Docs – SFC Tool](https://support.microsoft.com/en-us/help/929833)
+- 
