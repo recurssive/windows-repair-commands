@@ -56,3 +56,13 @@ Scans for and replaces corrupted or missing Windows system files.
 ```cmd
 sfc /scannow
 ```
+
+---
+
+## ✅ Final Notes
+
+- Run all commands **in order** for best results.
+- Restart your computer after the final step if prompted.
+- These steps are safe and do **not delete your personal files**.
+
+---
